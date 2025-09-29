@@ -1,5 +1,29 @@
 {
+  "name": "acheorasuona",
+  "version": "0.0.1",
+  "description": "App for \u001b[1;6D\u001b[1;6D\u001b[1: Timetable app for vallauri\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[V",
+  "keywords": [
+    "timetable",
+    "hour",
+    "school"
+  ],
+  "homepage": "https://github.com/CarlosJoseIsNaN/acheorasuona#readme",
+  "bugs": {
+    "url": "https://github.com/CarlosJoseIsNaN/acheorasuona/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosJoseIsNaN/acheorasuona.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
   "dependencies": {
     "typescript": "^5.9.2"
-  }
+  },
+  "devDependencies": {}
 }
